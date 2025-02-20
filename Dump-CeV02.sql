@@ -29,7 +29,7 @@ CREATE TABLE Cliente(
 );
 
 CREATE TABLE Endereco(
-	codigo int,
+    codigo int,
     logradouro varchar(100),
     PRIMARY KEY(codigo)
 );
